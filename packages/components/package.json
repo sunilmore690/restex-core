@@ -13,5 +13,8 @@
     "ag-grid-react": "^23.0.3",
     "react": "^16.13.1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "gitHead": "352a80f26aedf5a5e76578595fa85fa86dbc718e"
 }
