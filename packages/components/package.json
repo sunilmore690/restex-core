@@ -1,6 +1,6 @@
 {
   "name": "@restex/components",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "352a80f26aedf5a5e76578595fa85fa86dbc718e"
+  "gitHead": "e669bd70f09e98edc9b43e1e5b5298cd6c48cbb5"
 }
