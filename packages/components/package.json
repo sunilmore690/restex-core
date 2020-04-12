@@ -12,5 +12,6 @@
     "ag-grid": "^18.1.2",
     "ag-grid-react": "^23.0.3",
     "react": "^16.13.1"
-  }
+  },
+  "gitHead": "942400d27fd73c70299857eec823f4dd9e3c0ab7"
 }
